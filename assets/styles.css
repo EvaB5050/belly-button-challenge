@@ -1,0 +1,11 @@
+#custom-bg {
+    background-image: url('https://img.wattpad.com/cover/327140707-200-k821010.jpg');
+    -webkit-background-size: 1250px; 
+    -moz-background-size: 1250px ;
+    -o-background-size: 1250px; 
+    background-size: 1250px; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
